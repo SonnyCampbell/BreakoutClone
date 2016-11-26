@@ -1,0 +1,6 @@
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.exe
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\bin\x86\Debug\Pong.pdb
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.exe
+C:\Users\Sonny\Documents\Projects\Pong\Pong\Pong\obj\x86\Debug\Pong.pdb
